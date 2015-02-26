@@ -1,0 +1,22 @@
+jqo3Ljexof9sA8PhSTwEjA : {Neutral=20, Very negative=3, Negative=37, Positive=21}
+uGykseHzyS5xAMWoN6YUqA : {Neutral=7, Negative=30, Positive=6}
+3DMvGD8ZmlMQmhwV66hdSA : {Neutral=12, Very negative=3, Negative=24, Positive=32, Very positive=1}
+_RBUU1y4yJrK0SPAd8z0-w : {Neutral=13, Very negative=2, Negative=42, Positive=34, Very positive=4}
+MKsb2VpLB-0UBODcInDsSw : {Neutral=6, Very negative=2, Negative=22, Positive=11}
+77ESrCo7hQ96VpCWWdvoxg : {Neutral=18, Negative=60, Positive=41, Very positive=3}
+KPoTixdjoJxSqRSEApSAGg : {Neutral=17, Very negative=1, Negative=64, Positive=46, Very positive=3}
+JwUE5GmEO-sH1FuwJgKBlQ : {Neutral=17, Negative=25, Positive=27, Very positive=2}
+rdAdANPNOcvUtoFgcaY9KA : {Neutral=19, Very negative=1, Negative=39, Positive=31, Very positive=5}
+LYyGQgL60VKdV-p_9OxmWQ : {Neutral=10, Very negative=4, Negative=48, Positive=23}
+UxMnY3Dxafucv5cXHyfBSA : {Neutral=18, Negative=41, Positive=11}
+jqo3Ljexof9sA8PhSTwEjA : {Neutral=24.691358024691358, Very negative=3.7037037037037033, Negative=45.67901234567901, Positive=25.925925925925924}
+uGykseHzyS5xAMWoN6YUqA : {Neutral=16.27906976744186, Negative=69.76744186046511, Positive=13.953488372093023}
+3DMvGD8ZmlMQmhwV66hdSA : {Neutral=16.666666666666664, Very negative=4.166666666666666, Negative=33.33333333333333, Positive=44.44444444444444, Very positive=1.3888888888888888}
+_RBUU1y4yJrK0SPAd8z0-w : {Neutral=13.684210526315791, Very negative=2.1052631578947367, Negative=44.21052631578947, Positive=35.78947368421053, Very positive=4.2105263157894735}
+MKsb2VpLB-0UBODcInDsSw : {Neutral=14.634146341463413, Very negative=4.878048780487805, Negative=53.65853658536586, Positive=26.82926829268293}
+77ESrCo7hQ96VpCWWdvoxg : {Neutral=14.754098360655737, Negative=49.18032786885246, Positive=33.60655737704918, Very positive=2.459016393442623}
+KPoTixdjoJxSqRSEApSAGg : {Neutral=12.977099236641221, Very negative=0.7633587786259541, Negative=48.854961832061065, Positive=35.11450381679389, Very positive=2.2900763358778624}
+JwUE5GmEO-sH1FuwJgKBlQ : {Neutral=23.943661971830984, Negative=35.2112676056338, Positive=38.028169014084504, Very positive=2.8169014084507045}
+rdAdANPNOcvUtoFgcaY9KA : {Neutral=20.0, Very negative=1.0526315789473684, Negative=41.05263157894737, Positive=32.631578947368425, Very positive=5.263157894736842}
+LYyGQgL60VKdV-p_9OxmWQ : {Neutral=11.76470588235294, Very negative=4.705882352941177, Negative=56.470588235294116, Positive=27.058823529411764}
+UxMnY3Dxafucv5cXHyfBSA : {Neutral=25.71428571428571, Negative=58.57142857142858, Positive=15.714285714285714}

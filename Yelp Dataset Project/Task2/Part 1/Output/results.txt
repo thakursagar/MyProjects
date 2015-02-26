@@ -1,0 +1,67 @@
+		Service	Food	Ambience
+
+Business Id: jqo3Ljexof9sA8PhSTwEjA
+ManualRating	2.5	3.35	3.42
+ourRating	2.76	2.83	3.19
+userRating	3.75	3.40	3.73
+reviewRating	3.63	3.50	3.60
+
+Business Id: uGykseHzyS5xAMWoN6YUqA
+ManualRating	2.5	3.0	1.5
+ourRating	2.40	2.00	2.40
+userRating	3.00	5.00	1.50
+reviewRating	2.50	3.00	2.00
+
+Business Id: 3DMvGD8ZmlMQmhwV66hdSA
+ManualRating	4.0	3.5	2.67
+ourRating	3.30	2.90	3.40
+userRating	3.86	4.00	3.75
+reviewRating	3.71	3.80	3.58
+
+Business Id: _RBUU1y4yJrK0SPAd8z0-w
+ManualRating	2.86	3.32	2.5
+ourRating	3.43	3.30	3.19
+userRating	3.33	3.40	3.59
+reviewRating	3.25	3.30	3.53
+
+Business Id: MKsb2VpLB-0UBODcInDsSw
+ManualRating	0.5	2.92	0.0
+ourRating	3.33	4.00	3.00
+userRating	3.00	4.00	2.67
+reviewRating	3.00	4.00	2.58
+
+Business Id: 77ESrCo7hQ96VpCWWdvoxg
+ManualRating	4.05	3.19	3.5
+ourRating	3.35	3.89	3.05
+userRating	3.25	3.43	3.25
+reviewRating	3.13	3.29	3.13
+
+Business Id: KPoTixdjoJxSqRSEApSAGg
+ManualRating	3.85	3.55	4.0
+ourRating	2.78	2.93	2.88
+userRating	3.70	3.88	3.69
+reviewRating	3.60	3.75	3.69
+
+Business Id: JwUE5GmEO-sH1FuwJgKBlQ
+ManualRating	3.7	3.3	4.15
+ourRating	3.56	3.42	3.83
+userRating	4.25	4.29	4.25
+reviewRating	4.25	4.29	4.25
+
+Business Id: rdAdANPNOcvUtoFgcaY9KA
+ManualRating	3.64	3.83	3.78
+ourRating	3.05	2.95	3.45
+userRating	4.11	4.00	4.00
+reviewRating	4.00	3.89	3.83
+
+Business Id: LYyGQgL60VKdV-p_9OxmWQ
+ManualRating	2.86	2.95	2.4
+ourRating	2.56	2.78	2.50
+userRating	2.88	3.00	3.00
+reviewRating	3.00	2.83	3.14
+
+Business Id: UxMnY3Dxafucv5cXHyfBSA
+ManualRating	2.0	3.29	2.0
+ourRating	2.38	2.38	2.36
+userRating	3.17	3.17	2.90
+reviewRating	3.00	3.00	2.90

@@ -1,0 +1,1236 @@
+TestData1:
+Business id: d_8bMNQd0mesbEUeq1U2kQ
+Categories: Pakistani, Indian, Buffets, Restaurants
+Restaurants : 5.1069376318514745
+Donuts : 4.655447123744315
+Party & Event Planning : 4.258478426834664
+American (Traditional) : 3.8979601196190976
+Bars : 3.7305867432417226
+Nightlife : 3.717464743744347
+Ice Cream & Frozen Yogurt : 3.5803333566577837
+Venues & Event Spaces : 3.323455797400734
+Food : 3.258798363291993
+Diners : 3.163628853259338
+Chinese : 2.9779542932969396
+Burgers : 2.8876942748027097
+Bakeries : 2.582965277896277
+Lounges : 2.559673250468625
+American (New) : 2.4236561875965976
+Chicken Wings : 2.390171477110656
+Pizza : 2.375034580953238
+Italian : 2.3667108343109233
+Event Planning & Services : 2.240552583795053
+Dive Bars : 2.1970165998397513
+Sandwiches : 2.163047236109114
+Fast Food : 2.1599155086786754
+Asian Fusion : 1.959643530191327
+Buffets : 1.8280313569212414
+Herbs & Spices : 1.7208909619603243
+Pubs : 1.7118890752724882
+Indian : 1.6993166396026569
+Breakfast & Brunch : 1.6977096562818021
+Sushi Bars : 1.6266227366559862
+Japanese : 1.6148873036894882
+Pakistani : 1.6010383306570126
+
+Precision = 1/4 | 1/4 | 1/4
+
+TestData2:
+Business id: ZLiNw_Q36b-u1VFSeEEfsA
+Categories: Fast Food, Restaurants
+Restaurants : 1.2607339127622006
+Donuts : 1.2104221816749448
+Party & Event Planning : 1.0312206735976126
+American (Traditional) : 1.0170383268688892
+Bars : 0.9845157582223608
+Nightlife : 0.981012780407456
+Ice Cream & Frozen Yogurt : 0.9114427586937677
+Burgers : 0.8831581026644064
+Food : 0.8386097460543614
+Venues & Event Spaces : 0.8054611071178633
+Diners : 0.7623982792524743
+Chinese : 0.712191789826757
+Fast Food : 0.6761296496820456
+Bakeries : 0.6737240206387469
+Lounges : 0.6498075139128369
+
+Precision= 2/2 | 2/2 | 2/2
+
+TestData3:
+Business id:pk0vem-ismpPnVeTIG0Q5g
+Categories: American (Traditional), Restaurants
+Restaurants : 1.3214917405184172
+Donuts : 1.2124854191463135
+Party & Event Planning : 1.097102278230445
+American (Traditional) : 1.0689581802180033
+Bars : 1.0328583908614832
+Nightlife : 1.0292866618985634
+Ice Cream & Frozen Yogurt : 0.9128398207248815
+Burgers : 0.8611338283698651
+Venues & Event Spaces : 0.8564264083029408
+Diners : 0.8322510406398773
+Food : 0.8303872391169407
+Chinese : 0.7546036777340261
+Lounges : 0.6850394878889309
+American (New) : 0.6782185193479451
+Bakeries : 0.661617049315587
+Fast Food : 0.6380410384464358
+Chicken Wings : 0.6241648430076189
+
+Precision= 2/2 | 2/2 | 2/2
+
+TestData4:
+Business id:72pUqCkncwVVn65cIiX8aA
+Categories: Fast Food, Chicken Wings, Restaurants
+Restaurants : 0.8876243558923271
+Donuts : 0.8570662315929363
+American (Traditional) : 0.7307911735187244
+Burgers : 0.7027424109475394
+Party & Event Planning : 0.6976199956231429
+Bars : 0.6911296504070608
+Nightlife : 0.6887388271441135
+Ice Cream & Frozen Yogurt : 0.6480680228203354
+Food : 0.591481633727771
+Venues & Event Spaces : 0.5427801905457832
+Diners : 0.5357504290622056
+Fast Food : 0.53439441648192
+Chinese : 0.4907350230239431
+Bakeries : 0.4736397998771256
+Chicken Wings : 0.45244576100782125
+Lounges : 0.4504021143336307
+American (New) : 0.44999668321188546
+Dive Bars : 0.4064604349559247
+Sandwiches : 0.40565835685808893
+Event Planning & Services : 0.37340319807400063
+
+Precision= 3/3 | 3/3 | 2/3
+
+TestData5:
+Business id:QHyqYUZ0WdxHYPAenIuLjw
+Categories: Pizza, Restaurants
+Restaurants : 2.443315468090149
+Donuts : 2.2766681003816824
+Party & Event Planning : 2.0270312728805306
+American (Traditional) : 1.840954768505656
+Ice Cream & Frozen Yogurt : 1.709810164731686
+Bars : 1.7085034273236224
+Nightlife : 1.7024422053841877
+Food : 1.580024582564049
+Venues & Event Spaces : 1.5792352016629385
+Pizza : 1.5358225242834838
+Diners : 1.4896360788576657
+Burgers : 1.4294903319087797
+Chinese : 1.3973421063031153
+Chicken Wings : 1.316418674075198
+Italian : 1.3131372754216333
+Bakeries : 1.2727345658564737
+Sandwiches : 1.2368503782191846
+Lounges : 1.1739510733022136
+American (New) : 1.1073845178698871
+Fast Food : 1.0902750372310162
+
+Precision= 2/2 | 2/2 | 2/2
+
+TestData6:
+Business id:M0a0UNYie0vmrDxY5r2yjA
+Categories: Burgers, Fast Food, Restaurants
+Restaurants : 0.842849369281252
+Donuts : 0.8088408508535945
+Burgers : 0.6770425008793325
+American (Traditional) : 0.6744575605702271
+Party & Event Planning : 0.6623265103462769
+Ice Cream & Frozen Yogurt : 0.6103919337201145
+Bars : 0.5974777502425112
+Nightlife : 0.5953370461388122
+Food : 0.5639449945692127
+Diners : 0.5208612971937624
+Venues & Event Spaces : 0.5156404714974305
+Fast Food : 0.5001347424070723
+Chinese : 0.4806725610407642
+Bakeries : 0.45775385590129675
+Chicken Wings : 0.41735191127427296
+Lounges : 0.4082496272701682
+American (New) : 0.4055788703961449
+Sandwiches : 0.38299079320996177
+Event Planning & Services : 0.3515830578638436
+Dive Bars : 0.3343791743665558
+
+Precision= 3/3 | 3/3 | 2/3
+
+TestData7:
+Business id:LRKJF43s9-3jG9Lgx4zODg
+Categories: Food, Ice Cream & Frozen Yogurt, Fast Food, Restaurants
+Restaurants : 1.2016574858487674
+Donuts : 1.172858936457265
+Party & Event Planning : 0.9985583784798245
+American (Traditional) : 0.9710337621680002
+Ice Cream & Frozen Yogurt : 0.9154538879554732
+Burgers : 0.9019496064983691
+Bars : 0.8894484543605508
+Nightlife : 0.8861527946393895
+Food : 0.8279562389627745
+Venues & Event Spaces : 0.7765372909773461
+Diners : 0.7376505687510087
+Fast Food : 0.6812917298187373
+Bakeries : 0.6701187117816049
+Chinese : 0.6675879988932045
+American (New) : 0.59846649188595
+Lounges : 0.595381198122183
+Chicken Wings : 0.5761835807431209
+Event Planning & Services : 0.513540956085089
+Dive Bars : 0.5099447549415962
+Sandwiches : 0.4957312646812633
+
+Precision= 4/4 | 4/4 | 3/4
+
+TestData8:
+Business id:RgDg-k9S5YD_BaxMckifkg
+Categories: Chinese, Restaurants
+Restaurants : 0.519015496404426
+Donuts : 0.45262783377970484
+Party & Event Planning : 0.4142555734644031
+Chinese : 0.38974579905197054
+American (Traditional) : 0.38384611564108556
+Ice Cream & Frozen Yogurt : 0.3448096664316736
+Bars : 0.3355440935007364
+Nightlife : 0.3342613394278711
+Diners : 0.3242015818675446
+Venues & Event Spaces : 0.321412372901565
+Food : 0.3085925197238937
+Burgers : 0.2827901286892662
+Outlet Stores : 0.26976990629516595
+Chicken Wings : 0.24906680641759807
+Bakeries : 0.24248927053338404
+
+Precision= 2/2 | 2/2 | 2/2 
+
+TestData9:
+Business Id:_wZTYYL7cutanzAnJUTGMA
+Categories: Bars, American (Traditional), Nightlife, Lounges, Restaurants
+Restaurants : 3.616347203404029
+Donuts : 3.306474429493407
+Party & Event Planning : 2.995200280634404
+American (Traditional) : 2.867716369458567
+Bars : 2.8243574549134935
+Nightlife : 2.814253829361604
+Ice Cream & Frozen Yogurt : 2.4980853253430033
+Venues & Event Spaces : 2.33843672272984
+Food : 2.3122630961558137
+Diners : 2.269767032980988
+Burgers : 2.0715309340391292
+Chinese : 2.017287961169965
+Lounges : 1.8915481351276706
+Bakeries : 1.8644553631506933
+American (New) : 1.8597194743514127
+Chicken Wings : 1.745877157566659
+Pizza : 1.7216419867696444
+Italian : 1.6591452608344524
+Dive Bars : 1.64134156062238
+Sandwiches : 1.5996101968357004
+
+Precision= 5/5 | 5/5 | 4/5
+
+
+TestData10:
+Business Id:SKLw05kEIlZcpTD5pqma8Q
+Categories: Party & Event Planning, Asian Fusion, Event Planning & Services, Venues & Event Spaces, Restaurants
+Restaurants : 4.466781734380931
+Donuts : 4.018979570017447
+Party & Event Planning : 3.7430745465547637
+American (Traditional) : 3.4129715428342875
+Bars : 3.2640127345322205
+Nightlife : 3.2523446385417474
+Ice Cream & Frozen Yogurt : 3.0825180453146164
+Venues & Event Spaces : 2.916420351271527
+Chinese : 2.8780609491772995
+Diners : 2.824032495061813
+Food : 2.8121922598880893
+Burgers : 2.470519821700499
+Bakeries : 2.2379819746473375
+Lounges : 2.2183647684670684
+American (New) : 2.1343427164713398
+Chicken Wings : 2.0415942420810254
+Event Planning & Services : 1.9473608878965387
+Italian : 1.933810737151917
+Dive Bars : 1.882764255738818
+Fast Food : 1.8558704599446703
+
+Precision= 4/5 | 3/5 | 3/5
+
+TestData11:
+Business Id:77ESrCo7hQ96VpCWWdvoxg
+Categories: Mexican, Restaurants
+Restaurants : 2.9062976046737616
+Donuts : 2.625348827062597
+Party & Event Planning : 2.4435089408156463
+American (Traditional) : 2.209791909029227
+Bars : 2.095836394089596
+Nightlife : 2.0881754178180887
+Ice Cream & Frozen Yogurt : 2.0201918392477873
+Venues & Event Spaces : 1.9183329590866531
+Diners : 1.8348690761700928
+Food : 1.819712741576097
+Chinese : 1.7131764308766295
+Burgers : 1.6345345067914343
+Mexican : 1.5425241843913557
+Lounges : 1.4456534263862224
+Bakeries : 1.4432622885052109
+American (New) : 1.3466777099436984
+Chicken Wings : 1.3236644185964856
+Event Planning & Services : 1.2599290199029802
+Dive Bars : 1.2419536708763832
+Italian : 1.235232751440159
+
+Precision = 2/2 | 2/2 | 1/2
+
+TestData12:
+Business Id:ShEYKerTwb2LSORE5o_s7A
+Categories: Bakeries, Food, Breakfast & Brunch, Coffee & Tea, Restaurants
+Restaurants : 3.6919974373747597
+Donuts : 3.510656974539087
+Party & Event Planning : 3.0629276395101424
+American (Traditional) : 2.8888949946268556
+Bars : 2.7393697354895243
+Nightlife : 2.729705255983644
+Ice Cream & Frozen Yogurt : 2.676247910737689
+Food : 2.5977492251878114
+Venues & Event Spaces : 2.392180761202354
+Diners : 2.3581940444039304
+Bakeries : 2.175843004518267
+Burgers : 2.1576695348098562
+Chinese : 2.0605944790207125
+American (New) : 1.8541751784214502
+Lounges : 1.8392292054535264
+Chicken Wings : 1.767966468055341
+Sandwiches : 1.7318798879198596
+Dive Bars : 1.6541046573969715
+Breakfast & Brunch : 1.6513406207427461
+Event Planning & Services : 1.6511369821369413
+
+Precision = 4/5| 3/5| 2/5
+
+TestData13:
+Business Id:HaBkx5PwvbBpQ2iNCgHnVQ
+Categories: Bars, American (New), Nightlife, Restaurants
+Restaurants : 1.4631108969616289
+Donuts : 1.3780726883239975
+American (Traditional) : 1.2049762008973113
+Bars : 1.1939469784011165
+Nightlife : 1.1898476102920237
+Party & Event Planning : 1.1299767217555254
+Ice Cream & Frozen Yogurt : 1.0327498072258914
+Burgers : 1.0215842502861259
+Food : 0.9455876720653684
+Diners : 0.8978465736965556
+Venues & Event Spaces : 0.8833700023419738
+Chinese : 0.8412090490074798
+American (New) : 0.7784571847905437
+Lounges : 0.7662936090645323
+Bakeries : 0.7563188185486546
+Fast Food : 0.7499902049271557
+Dive Bars : 0.7066403185860763
+Chicken Wings : 0.6870182531538747
+Event Planning & Services : 0.592949315949087
+Sandwiches : 0.5786626040801099
+
+Precision= 4/4 | 4/4 | 3/4
+
+
+TestData14:
+Business Id: suQyHycqv8nA7EualcUB3g
+Categories: Diners, Restaurants 
+Restaurants : 0.26595123711432256
+Donuts : 0.2606081931948823
+American (Traditional) : 0.223929778218354
+Party & Event Planning : 0.22037453958218728
+Bars : 0.20674874660452316
+Nightlife : 0.2060561529891283
+Food : 0.18445723795340763
+Diners : 0.18409274897798375
+Ice Cream & Frozen Yogurt : 0.1838528067567656
+Venues & Event Spaces : 0.17221199984713523
+Bakeries : 0.1583830735936038
+Breakfast & Brunch : 0.15770902590024077
+Burgers : 0.15277396655954067
+Chinese : 0.1442715951644245
+American (New) : 0.1409410712053201
+Lounges : 0.1365315878600397
+Chicken Wings : 0.1261692626868101
+Fast Food : 0.12311197504692475
+Dive Bars : 0.12151072892038015
+Event Planning & Services : 0.11624421979607913
+
+Precision= 2/2 | 2/2 | 2/2
+
+TestData15:
+Business Id: KW6HejC-67KSL9J8Cz1dSw
+Categories: Chinese, Restaurants
+Restaurants : 3.447469238679237
+Donuts : 3.1543632348990744
+Party & Event Planning : 2.8208080893944256
+American (Traditional) : 2.595401580433163
+Bars : 2.4040049302389495
+Ice Cream & Frozen Yogurt : 2.397006292104503
+Nightlife : 2.395204260692352
+Chinese : 2.2394498419711923
+Venues & Event Spaces : 2.1954904134546447
+Food : 2.184128498299282
+Diners : 2.1590719489597623
+Burgers : 1.9637401904809315
+Bakeries : 1.7427471703669253
+Lounges : 1.676359950516092
+Chicken Wings : 1.635838064042914
+American (New) : 1.5662490225335297
+Fast Food : 1.4828363062354792
+Italian : 1.4827681518972835
+Event Planning & Services : 1.4630839483019595
+Asian Fusion : 1.4238400717035062
+
+Precision= 2/2 | 2/2 | 2/2
+
+TestData16:
+Business Id: uga5g16PncJOtY7Sc3A05w
+Categories: Burgers, Fast Food, Restaurants
+Restaurants : 0.33438655025304187
+Donuts : 0.33431327707022596
+Party & Event Planning : 0.2809462794828275
+American (Traditional) : 0.2627353101606727
+Ice Cream & Frozen Yogurt : 0.258698602911984
+Food : 0.2421129878738801
+Bars : 0.23286147828090017
+Nightlife : 0.23240515741174914
+Venues & Event Spaces : 0.2196559600025854
+Burgers : 0.21586385188413137
+Diners : 0.2064588201282195
+Bakeries : 0.19210882750641875
+Fast Food : 0.18381092925945136
+Chinese : 0.18366189734911753
+Chicken Wings : 0.1624959453172209
+Lounges : 0.15913783936433923
+American (New) : 0.15724015269648836
+Event Planning & Services : 0.15399695198682772
+Dive Bars : 0.14842984691682684
+Sandwiches : 0.14705963811217473
+
+Precision=3/3 | 3/3 | 2/3
+
+TestData17:
+Business Id: xbJ9tdGbcVJIUkNgHSCwZQ
+Categories: Bars, Nightlife, Restaurants
+Restaurants : 1.667720620499683
+Bars : 1.568199502284917
+Nightlife : 1.5629294328836583
+Donuts : 1.5558996896084754
+American (Traditional) : 1.4310182211303104
+Party & Event Planning : 1.3307101783145445
+Ice Cream & Frozen Yogurt : 1.1514542317445364
+Burgers : 1.088306897644186
+Food : 1.068482648026584
+Venues & Event Spaces : 1.0422299839433184
+Diners : 1.019085708096801
+American (New) : 0.9759623040593882
+Dive Bars : 0.9672305201310556
+Chinese : 0.9340651677764732
+Lounges : 0.933865132518528
+Bakeries : 0.8572192541366387
+Chicken Wings : 0.8106508937149335
+Pubs : 0.7916437542518611
+Fast Food : 0.778058043570845
+Sandwiches : 0.7150179515569492
+
+Precision= 3/3 | 3/3 | 3/3
+
+TestData18:
+Business Id: koRLvzIl-4fCybOIdk56jA
+Categories: Cajun/Creole, Restaurants
+Restaurants : 5.069100016237016
+Donuts : 4.612542941045631
+Party & Event Planning : 4.242468546837269
+American (Traditional) : 3.9811463462224843
+Bars : 3.9458781167196126
+Nightlife : 3.932302452350161
+Ice Cream & Frozen Yogurt : 3.5176357686941566
+Venues & Event Spaces : 3.3124087412798646
+Food : 3.234654018955815
+Diners : 3.2012820185883477
+Chinese : 2.869872667062119
+Burgers : 2.8539143119760695
+American (New) : 2.6130702450805554
+Lounges : 2.60540774765255
+Bakeries : 2.589882418675221
+Dive Bars : 2.386597819511945
+Italian : 2.361657535350648
+Chicken Wings : 2.33785146303566
+Event Planning & Services : 2.2236355101001166
+Pizza : 2.1746878270441523
+Fast Food : 2.101872816244346
+Sandwiches : 2.092619099448418
+Asian Fusion : 1.9384047941077147
+Pubs : 1.8553721253396789
+Steakhouses : 1.77946354129264
+Breakfast & Brunch : 1.7579940986541456
+Seafood : 1.6373798125120413
+Wine Bars : 1.62397842162906
+Sushi Bars : 1.5858173349735571
+Japanese : 1.5312523932978022
+Buffets : 1.4642790419053369
+Outlet Stores : 1.3841505208306264
+Sports Bars : 1.3632230097594011
+Mexican : 1.3308245211280092
+Thai : 1.2074940759434314
+French : 1.1854686038807665
+Russian : 1.1448447070678331
+Tea Rooms : 1.119461632007262
+Salad : 1.1164801167438785
+Lebanese : 1.1092041130227381
+Coffee & Tea : 1.1061573558594695
+Mediterranean : 1.086556690859243
+Shopping Centers : 1.068331053051172
+Greek : 0.9995935302264862
+Cajun/Creole : 0.9889299741760725
+
+Precision = 1/2 | 1/2 | 1/2
+
+TestData19:
+Business Id: cruBFtsFaBuhX_I72uU8pA
+Categories: Pizza, Restaurants
+Pizza : 0.38438368445859195
+Restaurants : 0.32585621860735203
+Donuts : 0.2975209819219047
+Party & Event Planning : 0.28256782607065295
+Italian : 0.23341469852582947
+American (Traditional) : 0.2319669764029307
+Ice Cream & Frozen Yogurt : 0.23025033197244038
+Bars : 0.21970933811165028
+Venues & Event Spaces : 0.21937041692051687
+Nightlife : 0.21886689353542874
+Sandwiches : 0.2143805905671679
+Chicken Wings : 0.2090021223398426
+Food : 0.20594225182341347
+Diners : 0.19003104670729165
+Burgers : 0.18475973491596254
+Chinese : 0.16618260555671846
+Bakeries : 0.1559024440355941
+Lounges : 0.15496493923247687
+Event Planning & Services : 0.1502860175270417
+Fast Food : 0.13901261417342894
+
+Precision= 2/2 | 2/2 | 2/2
+
+TestData20:
+Business Id: X47o6R2rWiqGqvBtC7VS3Q
+Categories: Breakfast & Brunch, Restaurants
+Restaurants : 2.4716217735290664
+Donuts : 2.333083778192925
+Party & Event Planning : 2.0175180878409167
+American (Traditional) : 1.9662131101088303
+Bars : 1.8708012264819314
+Nightlife : 1.8643356604089445
+Ice Cream & Frozen Yogurt : 1.7627379925281204
+Food : 1.685977519249877
+Diners : 1.5890373363033685
+Venues & Event Spaces : 1.5773015940231705
+Burgers : 1.4387908726524938
+Chinese : 1.4157467992525479
+Bakeries : 1.3969281828221465
+Lounges : 1.252059417218191
+American (New) : 1.2427373765306475
+Chicken Wings : 1.1923609633986259
+Breakfast & Brunch : 1.1663396382309419
+Dive Bars : 1.127880062083072
+Sandwiches : 1.1192043297088268
+Fast Food : 1.0998596696682787
+
+Precision = 2/2 | 1/2 | 1/2
+
+
+TestData21:
+Business Id:lN-5-YTsaJr_IByyA476iw 
+Categories: Active Life, Bowling, Restaurants
+Restaurants : 3.127077939673594
+Donuts : 2.949833967243918
+Party & Event Planning : 2.526606661454049
+American (Traditional) : 2.5081210602417934
+Bars : 2.4909647463757
+Nightlife : 2.482088858590098
+Ice Cream & Frozen Yogurt : 2.2100315263260937
+Food : 2.0393776993649264
+Burgers : 2.009851343497219
+Venues & Event Spaces : 1.970687765165499
+Diners : 1.9211993475745142
+Chinese : 1.7217274706838404
+Bakeries : 1.6359608694131842
+Chicken Wings : 1.6293986983024387
+Lounges : 1.6052250470676033
+Pizza : 1.6043789007420306
+American (New) : 1.5876487296449608
+Sandwiches : 1.4967030769739615
+Fast Food : 1.4927191409064373
+Dive Bars : 1.4678536758611385
+Italian : 1.430293520063043
+Event Planning & Services : 1.3449869261797747
+Pubs : 1.1923047561316835
+Asian Fusion : 1.1379294546844425
+Sports Bars : 1.0288001034757426
+Breakfast & Brunch : 1.0267191012472752
+Sushi Bars : 0.9650991807482564
+Japanese : 0.9432013730366711
+Wine Bars : 0.8987330323108137
+Mexican : 0.8124335168778406
+Steakhouses : 0.7874021362684123
+Mediterranean : 0.7687316141572065
+Buffets : 0.7677083380429897
+Lebanese : 0.761896339634337
+Greek : 0.7533646219342661
+Outlet Stores : 0.7378961074581945
+Seafood : 0.7186172309593477
+Salad : 0.7062892426519216
+Tea Rooms : 0.6998738132842875
+Coffee & Tea : 0.6500429622920131
+Russian : 0.6486132928626634
+Delis : 0.6472224767882581
+Meat Shops : 0.6106725175012053
+Gluten-Free : 0.6101206422548181
+Soup : 0.5931297582813229
+Grocery : 0.5883036060622625
+French : 0.5795927157375212
+Shopping Centers : 0.5760512827389738
+Tex-Mex : 0.5742478917877237
+Specialty Food : 0.56776798684252
+Vegetarian : 0.5653699713637649
+Middle Eastern : 0.5600053077202758
+Cafes : 0.5516546188421957
+Southern : 0.5504198281645616
+Fruits & Veggies : 0.5353532089972627
+Thai : 0.5343758800782219
+Soul Food : 0.532288362157307
+Bagels : 0.5304233796252894
+Barbeque : 0.5297054345837068
+Shopping : 0.493821219952259
+Ethnic Food : 0.48201268865088626
+Breweries : 0.4769674218547213
+Arts & Entertainment : 0.4769627723435206
+Vegan : 0.46022330087963037
+Dance Clubs : 0.452307463289769
+Pakistani : 0.44987268564596594
+Belgian : 0.4458699509690441
+Tapas/Small Plates : 0.4416349011425398
+Music Venues : 0.4354117631726058
+Car Wash : 0.43502343682523104
+Fish & Chips : 0.4349538851575258
+Indian : 0.4326410183037497
+Caterers : 0.4301122163454313
+Cinema : 0.42667665565934726
+Vietnamese : 0.42417209031641895
+Casinos : 0.4233897702558735
+Dim Sum : 0.4225539461187163
+Tapas Bars : 0.4176251263069926
+Hot Dogs : 0.4064475377296044
+British : 0.4063811022853062
+Irish : 0.404358779239604
+Bowling : 0.4039535161806756
+Hotels : 0.4002607812313114
+Korean : 0.40020919207832023
+Hotels & Travel : 0.3996525649503009
+Cheesesteaks : 0.3976236368821512
+Karaoke : 0.3930369448865155
+Cajun/Creole : 0.3759219808420648
+Basque : 0.37501385463279263
+Arcades : 0.3720364314863959
+Spanish : 0.36503555196886944
+Polish : 0.35395483790451576
+Persian/Iranian : 0.3528081780826631
+Hawaiian : 0.3488295486261475
+Desserts : 0.3463378857673559
+Comfort Food : 0.3460224581356838
+Beer, Wine & Spirits : 0.3436359710562236
+Turkish : 0.3372308560579347
+Herbs & Spices : 0.3361446070538401
+Jazz & Blues : 0.33548045386165265
+Social Clubs : 0.3353371812598759
+Automotive : 0.33415247868074605
+Caribbean : 0.3328663559812567
+Gastropubs : 0.33084546593752334
+Active Life : 0.32680212250718566
+
+Precision= 1/3 | 1/3 | 1/3
+
+TestData22:
+Business Id: KFJ1jBfFkRfyn3AoAUl3YQ
+Categories: Burgers, Fast Food, Restaurants
+Restaurants : 0.8708731906430102
+Donuts : 0.8345660776233601
+American (Traditional) : 0.70934217215265
+Party & Event Planning : 0.675036093554963
+Bars : 0.6748282616454562
+Burgers : 0.6745751045432898
+Nightlife : 0.6725655355358974
+Ice Cream & Frozen Yogurt : 0.6294276637325883
+Food : 0.5677260122245198
+Diners : 0.5310284946756954
+Venues & Event Spaces : 0.5261182009369295
+Fast Food : 0.5023892730617597
+Chinese : 0.5015364660274898
+Lounges : 0.4555032278191456
+Bakeries : 0.4512214696866901
+American (New) : 0.43897840212635475
+Chicken Wings : 0.42032714712928315
+Dive Bars : 0.3897601183598211
+Event Planning & Services : 0.3581181933237473
+Sandwiches : 0.34925040591918516
+
+Precision= 3/3 | 3/3 | 2/3
+
+TestData23:
+Business Id: G1qUGBNYNS220jKlPAlFsA
+Categories: Bars, American (Traditional), Nightlife, Restaurants
+Restaurants : 3.4539570307027603
+Donuts : 3.2155277639467186
+Bars : 2.8744388208300116
+Nightlife : 2.864498852670009
+American (Traditional) : 2.8213777139679976
+Party & Event Planning : 2.8006954667478285
+Ice Cream & Frozen Yogurt : 2.4035469367017326
+Food : 2.2163903147010267
+Venues & Event Spaces : 2.1885417327505405
+Burgers : 2.186562913674736
+Diners : 2.134570114694907
+Chinese : 1.9503242132327845
+American (New) : 1.8280279362046923
+Lounges : 1.799941225361369
+Bakeries : 1.7772965448442355
+Dive Bars : 1.739485123680862
+Chicken Wings : 1.704384401538871
+Fast Food : 1.608572243095266
+Sandwiches : 1.4793220139035377
+Italian : 1.4781640814576085
+
+Precision= 3/3 | 3/3 | 3/3
+
+TestData24:
+Business Id: kiAsweI4sOjDzGyz3Y_HsQ 
+Categories: Food, Ice Cream & Frozen Yogurt, Restaurants, Burgers
+Restaurants : 1.3679093429668074
+Donuts : 1.3040462795010628
+Party & Event Planning : 1.1256231731683966
+American (Traditional) : 1.0820105983096369
+Ice Cream & Frozen Yogurt : 1.0331757120533012
+Burgers : 1.0051347097380499
+Bars : 0.9944174565065075
+Nightlife : 0.990896442045603
+Food : 0.9303541906865037
+Venues & Event Spaces : 0.877044846691733
+Diners : 0.8399684423939436
+Chinese : 0.7620601374406394
+Fast Food : 0.7492377438336475
+Bakeries : 0.7417519498425644
+Lounges : 0.663509546358846
+American (New) : 0.6616975826707503
+Chicken Wings : 0.6587449159441477
+Sandwiches : 0.6205511242162587
+Event Planning & Services : 0.595695602942665
+Dive Bars : 0.5789748039622734
+
+Precision = 4/4 | 4/4 | 4/4
+
+TestData25:
+Business Id: q8fD82us6uuGufvI44NoAg
+Categories: Restaurants, Italian
+Restaurants : 4.405191910063092
+Donuts : 4.014514102819626
+Party & Event Planning : 3.6288442403195544
+American (Traditional) : 3.35973967944241
+Bars : 3.2796469077344925
+Nightlife : 3.267483761628003
+Ice Cream & Frozen Yogurt : 3.0415864429761292
+Venues & Event Spaces : 2.834115159885939
+Food : 2.801379241543998
+Diners : 2.764639426241529
+Chinese : 2.494395303406209
+Burgers : 2.4472853753765116
+Italian : 2.3703032193988833
+Pizza : 2.2469163004625266
+Bakeries : 2.240719947449762
+Lounges : 2.2107041949103268
+American (New) : 2.191091053286692
+Chicken Wings : 2.1233389108430005
+Sandwiches : 1.9429768157659895
+Dive Bars : 1.9301045540174515
+
+Precision= 2/2 | 2/2 | 1/2
+
+TestData26:
+Business Id: B0Vuwn6Hugc-0U5n31YBfg 
+Categories: Bakeries, Food, American (Traditional), Restaurants, Donuts 
+Restaurants : 2.8540638406352894
+Donuts : 2.7548714419479543
+Party & Event Planning : 2.397539706439617
+American (Traditional) : 2.2744806922568297
+Bars : 2.1372699688769905
+Nightlife : 2.129789644780319
+Ice Cream & Frozen Yogurt : 2.041890640529155
+Food : 1.9984223007244466
+Venues & Event Spaces : 1.871427767392029
+Diners : 1.8474226471180462
+Bakeries : 1.6968945401758917
+Burgers : 1.655312148431863
+Chinese : 1.5860503546260833
+American (New) : 1.4737671922691422
+Lounges : 1.4499911941896286
+Breakfast & Brunch : 1.43121774516324
+Chicken Wings : 1.3824345647558387
+Sandwiches : 1.3241549774588082
+Event Planning & Services : 1.2863478447571688
+Dive Bars : 1.2613944485524322
+
+Precision= 5/5 | 5/5 | 4/5
+
+TestData27:
+Business Id: 3zD6rxB92Mr0jb-LoYFFWw
+Categories: Burgers, Restaurants
+Restaurants : 1.6617987874393079
+Donuts : 1.6105797478874653
+Party & Event Planning : 1.3274502242324906
+American (Traditional) : 1.3247783296534386
+Bars : 1.2208700772512946
+Nightlife : 1.2165766283852464
+Ice Cream & Frozen Yogurt : 1.2037826939491356
+Burgers : 1.1900646447550054
+Food : 1.1037715344034584
+Venues & Event Spaces : 1.0360151399038506
+Diners : 1.015993557277461
+Chinese : 0.9455576327698799
+Fast Food : 0.9156346435075422
+Bakeries : 0.8911147195009979
+Lounges : 0.8204815134413229
+Chicken Wings : 0.8184054908769607
+American (New) : 0.7956949538869236
+Sandwiches : 0.7162921598652205
+Dive Bars : 0.7120076510986876
+Event Planning & Services : 0.7114707580730211
+
+Precision= 2/2 | 2/2 | 2/2
+
+TestData28:
+Business Id: OC8AUJshLVimn_-P_INvJw
+Categories: Sandwiches, Pizza, Chicken Wings, Restaurants
+Restaurants : 1.1092184568419672
+Donuts : 1.0506618584431762
+Party & Event Planning : 0.9247709013405122
+American (Traditional) : 0.8517245818048903
+Bars : 0.8050913830758782
+Nightlife : 0.8021765252111276
+Ice Cream & Frozen Yogurt : 0.7803527746651789
+Pizza : 0.7271075633998443
+Venues & Event Spaces : 0.7196425915548922
+Food : 0.71814931253237
+Burgers : 0.6807750746259031
+Diners : 0.6785155179306568
+Chinese : 0.5963996999283843
+Chicken Wings : 0.59605100270572
+Italian : 0.5849249079877423
+Bakeries : 0.5772815786348338
+Sandwiches : 0.5631907861513724
+Lounges : 0.5577093738068668
+American (New) : 0.5198192336293028
+Fast Food : 0.5176716738048798
+
+Precision= 4/4 | 3/4 | 3/4 
+
+TestData29:
+Business Id: eptljN50_4BpIwc2Op_A_A
+Categories: Delis, Restaurants
+Restaurants : 1.8760562794456093
+Donuts : 1.7456490247840242
+Party & Event Planning : 1.5422418656478105
+American (Traditional) : 1.4265153285280034
+Bars : 1.3357012777970476
+Nightlife : 1.3309081805318435
+Ice Cream & Frozen Yogurt : 1.329264027390127
+Food : 1.2587710610109621
+Venues & Event Spaces : 1.2050978912108665
+Diners : 1.1654886276523106
+Burgers : 1.097250654977088
+Chinese : 1.0532845235368156
+Bakeries : 1.026139861315799
+Sandwiches : 0.9696987796859813
+Italian : 0.9652105194524329
+Chicken Wings : 0.962551111836975
+Pizza : 0.9290268675225533
+Lounges : 0.9256823189107201
+American (New) : 0.883500666911241
+Fast Food : 0.8429748893353638
+Event Planning & Services : 0.8385725596635771
+Dive Bars : 0.7858294017901458
+Asian Fusion : 0.6936436028840832
+Breakfast & Brunch : 0.6873017799755787
+Pubs : 0.6008124344067478
+Wine Bars : 0.5815880085153446
+Japanese : 0.5342472371529552
+Sushi Bars : 0.532991587143068
+Buffets : 0.5325475759342776
+Delis : 0.52050954559413
+
+Precision = 1/2 | 1/2 | 1/2
+
+TestData30:
+Business Id: 5uxhIGZlJm9g_zfG_83z5Q
+Categories: Chinese, Restaurants
+Restaurants : 1.6540360995311811
+Donuts : 1.4581416787553816
+Party & Event Planning : 1.314250875238139
+American (Traditional) : 1.1900002060416444
+Ice Cream & Frozen Yogurt : 1.149313103964688
+Chinese : 1.1285470604580223
+Sushi Bars : 1.0332038028686514
+Bars : 1.031342601847102
+Nightlife : 1.0276233662808556
+Japanese : 1.026615955935334
+Venues & Event Spaces : 1.0221149286706097
+Diners : 1.0216493133177886
+Food : 1.0197965116149768
+Burgers : 0.9096210762548481
+Buffets : 0.818237208198073
+Bakeries : 0.8013579644646298
+Lounges : 0.7868281860885178
+Chicken Wings : 0.7332670836415476
+Ramen : 0.7237054535275057
+Asian Fusion : 0.7119347989293363
+
+Precision= 2/2 | 2/2 | 2/2
+
+TestData31:
+Business Id: RIsEPpt2jM7c_Ko_CyLwMw
+Categories: Food, Ice Cream & Frozen Yogurt, Fast Food, Restaurants
+Restaurants : 0.9212695011135184
+Donuts : 0.8983775520676857
+Party & Event Planning : 0.7842954376499492
+American (Traditional) : 0.7149281635050913
+Ice Cream & Frozen Yogurt : 0.7014536963811313
+Bars : 0.6604424032964832
+Nightlife : 0.6582174075112014
+Food : 0.6467294483224714
+Venues & Event Spaces : 0.6117493160090717
+Diners : 0.5693080748689252
+Burgers : 0.5688469491814679
+Bakeries : 0.5240347142827747
+Chinese : 0.513616937637373
+Chicken Wings : 0.46097675568937396
+Fast Food : 0.45570526557417235
+Lounges : 0.4457950816693583
+American (New) : 0.43374942400738853
+Event Planning & Services : 0.41935600538613965
+Sandwiches : 0.4183074328997596
+Pizza : 0.4019211184747027
+
+Precision= 4/4 | 4/4 | 3/4
+
+TestData32:
+Business Id: cpGv6ES2hzPCtCUQgipwXw
+Categories: Sandwiches, Cajun/Creole, Seafood, Restaurants
+Restaurants : 3.30844756765858
+Donuts : 3.0723163204159016
+Party & Event Planning : 2.742663431945156
+American (Traditional) : 2.5240651699476944
+Bars : 2.336783171444174
+Nightlife : 2.328521524708388
+Ice Cream & Frozen Yogurt : 2.324579810598384
+Food : 2.1379691205449376
+Venues & Event Spaces : 2.1357562365975804
+Diners : 2.10193272805721
+Chinese : 1.974297708244625
+Burgers : 1.9430307885801053
+Bakeries : 1.7269329269830997
+Chicken Wings : 1.66350730183231
+Lounges : 1.5859057635739071
+American (New) : 1.5080291248900943
+Sandwiches : 1.4965393387738322
+Pizza : 1.4948820304856547
+Fast Food : 1.4844509807772492
+Italian : 1.4572041155751534
+Event Planning & Services : 1.455078759261859
+Dive Bars : 1.3665010611244885
+Asian Fusion : 1.288951571829714
+Sushi Bars : 1.1400393352896863
+Japanese : 1.1284441622296337
+Breakfast & Brunch : 1.119882778304776
+Outlet Stores : 1.0949244824735955
+Pubs : 1.0399939894580077
+Seafood : 0.9484194767502655
+Mexican : 0.9463907947799289
+Steakhouses : 0.9123581869988034
+Buffets : 0.8967891141269192
+Sports Bars : 0.8693257236945687
+Wine Bars : 0.8685449484778552
+Shopping Centers : 0.8477374094700731
+Lebanese : 0.7511963261298914
+Cajun/Creole : 0.7510526519683239
+
+Precision= 1/4 | 1/4 | 1/4
+
+TestData33:
+Business Id: wPidHd5FxspPRgVqdEQ-Xw
+Categories: Mexican, Restaurants
+Restaurants : 4.250129967023199
+Donuts : 3.868781174258027
+Party & Event Planning : 3.510710108526988
+American (Traditional) : 3.292068854428073
+Bars : 3.2131216395992492
+Nightlife : 3.201806394418297
+Ice Cream & Frozen Yogurt : 2.9552284095830528
+Venues & Event Spaces : 2.7643456935129307
+Diners : 2.6913236292091103
+Food : 2.6745796334302367
+Chinese : 2.429728963193699
+Burgers : 2.3999200367933424
+Lounges : 2.186858829982866
+Bakeries : 2.127762154813434
+American (New) : 2.027543328480706
+Chicken Wings : 1.9654663156973065
+Mexican : 1.9622909147765792
+Dive Bars : 1.9162793050978675
+Event Planning & Services : 1.8490306486725425
+Italian : 1.8147774445414269
+
+Precision= 2/2 | 1/2 | 1/2
+
+TestData34:
+Business Id: yYIEKwgQUHJpySOcVdCAkg
+Categories: American (New), Restaurants
+Restaurants : 1.3730268535864523
+Donuts : 1.301608547882235
+Party & Event Planning : 1.1190266769095194
+American (Traditional) : 1.1158799707606981
+Bars : 1.0304021096940013
+Nightlife : 1.026801556911595
+Ice Cream & Frozen Yogurt : 0.9727735173431573
+Food : 0.9172653032404153
+Burgers : 0.902267220696595
+Diners : 0.8982668794859083
+Venues & Event Spaces : 0.8717756468464304
+Chinese : 0.7575125559687095
+Bakeries : 0.7522007964695068
+American (New) : 0.7039841980023354
+Lounges : 0.6877580615592277
+Fast Food : 0.6647137354801141
+Chicken Wings : 0.6560527053757492
+Breakfast & Brunch : 0.6408875544848878
+Dive Bars : 0.6089790823779174
+Pizza : 0.603837581577788
+
+Precision= 2/2 | 2/2 | 1/2 
+
+TestData35:
+Business Id: QF14BFUVHRODxGNVflgm3A
+Categories: Breakfast & Brunch, Restaurants
+Restaurants : 1.87012764662404
+Donuts : 1.7444308820105592
+Party & Event Planning : 1.5876311169250954
+American (Traditional) : 1.4825406412083193
+Bars : 1.3901133079182968
+Nightlife : 1.385147803744924
+Ice Cream & Frozen Yogurt : 1.307456336589336
+Food : 1.2471185672323257
+Venues & Event Spaces : 1.2383679172918718
+Diners : 1.223357828454947
+Chinese : 1.0967254602841563
+Burgers : 1.042442966350639
+Bakeries : 1.0276167248262875
+American (New) : 0.9556740565682368
+Lounges : 0.9333204320543159
+Chicken Wings : 0.8741186321344135
+Breakfast & Brunch : 0.8606616675631473
+
+Precision= 2/2 | 1/2 | 1/2
+
+TestData36:
+Business Id: q83uB6EGF6y2MuR-7VZPRg
+Categories: Food, Ice Cream & Frozen Yogurt, Fast Food, Restaurants
+Donuts : 0.5970231517491867
+Restaurants : 0.5893245211473164
+Burgers : 0.49290501419737226
+American (Traditional) : 0.4790189041197175
+Party & Event Planning : 0.46333240274201193
+Ice Cream & Frozen Yogurt : 0.4526434282111425
+Bars : 0.4313244248685966
+Nightlife : 0.4297866331608367
+Food : 0.4163291598417535
+Venues & Event Spaces : 0.3595663744962002
+Diners : 0.35395488654873364
+Fast Food : 0.35238176546752675
+Bakeries : 0.3396357083871743
+Chinese : 0.3121921227164496
+Chicken Wings : 0.29521882624173773
+
+Precision= 4/4 | 4/4 | 3/4
+
+TestData37:
+Business Id: oudTF4EN_C8thENGiTQf-w
+Categories: Bars, American (New), Nightlife, Restaurants
+Restaurants : 1.2791528704471247
+Donuts : 1.1725061712961635
+Party & Event Planning : 1.0629411771203812
+American (Traditional) : 1.0257648918752769
+Bars : 0.9964026198778385
+Nightlife : 0.9928747535229225
+Ice Cream & Frozen Yogurt : 0.8847589394828987
+Venues & Event Spaces : 0.8363686764075259
+Burgers : 0.8325017711267216
+Diners : 0.803902327240691
+Food : 0.796885951802285
+Chinese : 0.7277229651174479
+Lounges : 0.654992740036105
+American (New) : 0.6375834849688281
+Bakeries : 0.6319589721456567
+
+Precision= 4/4 | 4/4 | 3/4
+
+TestData38:
+Business Id: ZjwZIQM4TfFO7T7ck7FtYQ
+Categories: Food, Beer, Wine & Spirits, Grocery, Delis, Restaurants
+Restaurants : 0.8260879629871076
+Donuts : 0.8068984762866432
+Party & Event Planning : 0.7045210106989503
+American (Traditional) : 0.6517704083865123
+Bars : 0.6307241328778104
+Nightlife : 0.6285957375680676
+Ice Cream & Frozen Yogurt : 0.6030470399558011
+Food : 0.5978740111454712
+Venues & Event Spaces : 0.5501321923446915
+Diners : 0.5161402568532875
+Bakeries : 0.5033169472382233
+Burgers : 0.4816731756481386
+Chinese : 0.4627623896209585
+Lounges : 0.4136227701834464
+Chicken Wings : 0.41090608498291303
+American (New) : 0.40401674846798447
+Sandwiches : 0.3992814088677344
+Dive Bars : 0.3938131504116917
+Event Planning & Services : 0.38511862672785274
+Pizza : 0.37585906396695445
+Fast Food : 0.36476166244764413
+Italian : 0.3591672985308602
+Breakfast & Brunch : 0.32412295314546685
+Russian : 0.3174131127969429
+Asian Fusion : 0.3089712892632295
+Pubs : 0.29884255983498964
+Grocery : 0.2858154816484903
+Buffets : 0.2748262504035901
+Coffee & Tea : 0.26255045927957477
+Appliances : 0.2558471079333684
+Home Decor : 0.2558471079333684
+Home & Garden : 0.2558471079333684
+Kitchen & Bath : 0.2558471079333684
+Lebanese : 0.2523146927947786
+Tea Rooms : 0.2482232514678124
+Meat Shops : 0.24546886657491196
+Sports Bars : 0.2396362456891884
+Specialty Food : 0.23745933249069417
+Wine Bars : 0.23612251955832325
+Delis : 0.23568075893693688
+Mexican : 0.23551751611386199
+Sushi Bars : 0.23066267918741112
+Japanese : 0.22786486742508733
+Outlet Stores : 0.2201961182369804
+Ethnic Food : 0.21158023865362488
+Cafes : 0.20889500349147636
+Salad : 0.20781877634480755
+Steakhouses : 0.2023086700604959
+Shopping Centers : 0.19848466251691987
+Seafood : 0.1935707832089472
+Mediterranean : 0.19100917635273662
+Bagels : 0.18842550950353035
+Soup : 0.18105732118598644
+Shopping : 0.18090862050297193
+Tex-Mex : 0.17172261817556078
+Greek : 0.17151686720051962
+Middle Eastern : 0.1691654854807775
+Fruits & Veggies : 0.16886208886578732
+Car Wash : 0.16794587547731116
+Dim Sum : 0.16647247041735203
+French : 0.16129276722090455
+Vegetarian : 0.16063576723676762
+Gluten-Free : 0.155981236541698
+Pakistani : 0.1500938967059763
+Indian : 0.1429093410632035
+Polish : 0.1399314814228031
+Beer, Wine & Spirits : 0.13927645989232817
+
+Precision = 2/4 | 2/4 | 2/4
+
+TestData39:
+Business Id: MVFeOZVt641WBvdsRmnhPg
+Categories: Dive Bars, Bars, American (Traditional), Nightlife, Restaurants
+Restaurants : 0.5400473854191066
+Bars : 0.512893744511622
+Nightlife : 0.5111774595454568
+Donuts : 0.494872039702831
+American (Traditional) : 0.458308061057954
+Party & Event Planning : 0.44024804054441646
+Ice Cream & Frozen Yogurt : 0.3810994779431664
+Food : 0.3578781342275811
+Venues & Event Spaces : 0.3455486874450014
+Diners : 0.3350726121399584
+Dive Bars : 0.3316081498421024
+Burgers : 0.3201755775067715
+American (New) : 0.31503781505181827
+Lounges : 0.30000973247097484
+Bakeries : 0.2866990538627212
+
+Precision= 5/5 | 5/5 | 4/5
+
+TestData40:
+Business Id: 9vgu6o1CwP5NakVkb29z0g
+Categories: Japanese, Restaurants
+Restaurants : 0.4461202950061423
+Donuts : 0.42228978673747625
+Party & Event Planning : 0.3745490321752895
+American (Traditional) : 0.3462826133505387
+Bars : 0.3224473807425449
+Nightlife : 0.32138201068043987
+Ice Cream & Frozen Yogurt : 0.31710816005700737
+Food : 0.2976971866066323
+Venues & Event Spaces : 0.29283175896485936
+Diners : 0.2748102683119352
+Chinese : 0.27081569434813085
+Burgers : 0.25706151773770836
+Bakeries : 0.24359039894981058
+Chicken Wings : 0.2246945663114035
+Lounges : 0.2221859075178175
+American (New) : 0.2077155258133625
+Fast Food : 0.20483667326824118
+Event Planning & Services : 0.199066395050686
+Sandwiches : 0.1972915611860916
+Dive Bars : 0.19430895453328934
+Pizza : 0.19405301785079868
+Italian : 0.19157344501024717
+Asian Fusion : 0.18036433455706646
+Japanese : 0.17675409716116122
+
+Precision= 1/2 | 1/2 | 1/2
+
+TestData41:
+Business Id: gUt-pPUpOVVhaCFC8-E4yQ 
+Categories: Nightlife, Asian Fusion, Sushi Bars, Karaoke, Restaurants
+Restaurants : 8.234352205941594
+Donuts : 7.587817702680358
+Party & Event Planning : 6.725609952909326
+Bars : 6.494265473869128
+American (Traditional) : 6.484595469439372
+Nightlife : 6.472361720080196
+Ice Cream & Frozen Yogurt : 5.787157769723979
+Venues & Event Spaces : 5.266959375854206
+Food : 5.2640922467809
+Diners : 5.107174875487319
+Chinese : 4.722550914662978
+Burgers : 4.711720734711116
+Lounges : 4.374460984388809
+Bakeries : 4.177067362827666
+American (New) : 4.132089376096195
+Chicken Wings : 3.857526564819182
+Dive Bars : 3.83077469950553
+Sushi Bars : 3.6555974240730116
+Event Planning & Services : 3.594416546545844
+Japanese : 3.583118736282018
+
+Precision= 3/5 | 2/5 | 2/5

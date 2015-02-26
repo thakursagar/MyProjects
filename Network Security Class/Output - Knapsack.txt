@@ -1,0 +1,10 @@
+Enter six numbers:
+15
+12
+19
+6
+8
+25
+Enter the number to compare the sum with: 
+39
+The numbers whose sum is equal to 39 are: [25, 8, 6]

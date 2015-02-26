@@ -1,0 +1,21 @@
+http://mvnrepository.com/artifact/org.mongodb/mongo-java-driver/2.12.4
+
+http://mvnrepository.com/artifact/org.apache.lucene/lucene-core/4.10.0
+
+http://mvnrepository.com/artifact/org.apache.lucene/lucene-queryparser/4.10.0
+
+http://mvnrepository.com/artifact/org.apache.lucene/lucene-analyzers-common/4.10.0
+
+http://mvnrepository.com/artifact/org.json/json/20140107
+
+http://mvnrepository.com/artifact/org.apache.opennlp/opennlp-tools/1.5.3
+
+http://mvnrepository.com/artifact/com.googlecode.json-simple/json-simple/1.1.1
+
+http://mvnrepository.com/artifact/org.codehaus.jackson/jackson-mapper-asl/1.9.13
+
+http://mvnrepository.com/artifact/edu.stanford.nlp/stanford-corenlp/3.5.0
+
+*****
+Standford Core NLP 3.5 - http://nlp.stanford.edu/software/corenlp.shtml
+ 
