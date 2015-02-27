@@ -1,0 +1,47 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.b649.hoosierpool.PostDetails$PlaceholderFragment" >
+
+    <Button
+        android:id="@+id/btnPDEditPost"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="68dp"
+        android:text="Edit Post" />
+
+    <Button
+        android:id="@+id/btnPDComments"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btnPDBooked"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="26dp"
+        android:text="Comments" />
+
+    <Button
+        android:id="@+id/btnPDBooked"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btnPDEditPost"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="34dp"
+        android:text="Booked User" />
+
+    <Button
+        android:id="@+id/btnPDRequests"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/btnPDEditPost"
+        android:layout_below="@+id/btnPDComments"
+        android:layout_marginTop="31dp"
+        android:text="Requests" />
+
+</RelativeLayout>
