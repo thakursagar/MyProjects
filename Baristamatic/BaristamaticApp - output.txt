@@ -1,0 +1,302 @@
+Inventory:
+Cocoa,10
+Coffee,10
+Cream,10
+Decaf Coffee,10
+Espresso,10
+Foamed Milk,10
+Steamed Milk,10
+Sugar,10
+Whipped Cream,10
+Menu:
+1,Caffe Americano, $3.3,true
+2,Caffe Latte, $2.55,true
+3,Caffe Mocha, $3.35,true
+4,Cappuccino, $2.9,true
+5,Coffee, $2.75,true
+6,Decaf Coffee, $2.75,true
+1
+Dispensing: Caffe Americano
+Inventory:
+Cocoa,10
+Coffee,10
+Cream,10
+Decaf Coffee,10
+Espresso,7
+Foamed Milk,10
+Steamed Milk,10
+Sugar,10
+Whipped Cream,10
+Menu:
+1,Caffe Americano, $3.3,true
+2,Caffe Latte, $2.55,true
+3,Caffe Mocha, $3.35,true
+4,Cappuccino, $2.9,true
+5,Coffee, $2.75,true
+6,Decaf Coffee, $2.75,true
+2
+Dispensing: Caffe Latte
+Inventory:
+Cocoa,10
+Coffee,10
+Cream,10
+Decaf Coffee,10
+Espresso,5
+Foamed Milk,10
+Steamed Milk,9
+Sugar,10
+Whipped Cream,10
+Menu:
+1,Caffe Americano, $3.3,true
+2,Caffe Latte, $2.55,true
+3,Caffe Mocha, $3.35,true
+4,Cappuccino, $2.9,true
+5,Coffee, $2.75,true
+6,Decaf Coffee, $2.75,true
+3
+Dispensing: Caffe Mocha
+Inventory:
+Cocoa,9
+Coffee,10
+Cream,10
+Decaf Coffee,10
+Espresso,4
+Foamed Milk,10
+Steamed Milk,8
+Sugar,10
+Whipped Cream,9
+Menu:
+1,Caffe Americano, $3.3,true
+2,Caffe Latte, $2.55,true
+3,Caffe Mocha, $3.35,true
+4,Cappuccino, $2.9,true
+5,Coffee, $2.75,true
+6,Decaf Coffee, $2.75,true
+4
+Dispensing: Cappuccino
+Inventory:
+Cocoa,9
+Coffee,10
+Cream,10
+Decaf Coffee,10
+Espresso,2
+Foamed Milk,9
+Steamed Milk,7
+Sugar,10
+Whipped Cream,9
+Menu:
+1,Caffe Americano, $3.3,false
+2,Caffe Latte, $2.55,true
+3,Caffe Mocha, $3.35,true
+4,Cappuccino, $2.9,true
+5,Coffee, $2.75,true
+6,Decaf Coffee, $2.75,true
+5
+Dispensing: Coffee
+Inventory:
+Cocoa,9
+Coffee,7
+Cream,9
+Decaf Coffee,10
+Espresso,2
+Foamed Milk,9
+Steamed Milk,7
+Sugar,9
+Whipped Cream,9
+Menu:
+1,Caffe Americano, $3.3,false
+2,Caffe Latte, $2.55,true
+3,Caffe Mocha, $3.35,true
+4,Cappuccino, $2.9,true
+5,Coffee, $2.75,true
+6,Decaf Coffee, $2.75,true
+6
+Dispensing: Decaf Coffee
+Inventory:
+Cocoa,9
+Coffee,7
+Cream,8
+Decaf Coffee,7
+Espresso,2
+Foamed Milk,9
+Steamed Milk,7
+Sugar,8
+Whipped Cream,9
+Menu:
+1,Caffe Americano, $3.3,false
+2,Caffe Latte, $2.55,true
+3,Caffe Mocha, $3.35,true
+4,Cappuccino, $2.9,true
+5,Coffee, $2.75,true
+6,Decaf Coffee, $2.75,true
+1
+Out of stock: Caffe Americano
+Inventory:
+Cocoa,9
+Coffee,7
+Cream,8
+Decaf Coffee,7
+Espresso,2
+Foamed Milk,9
+Steamed Milk,7
+Sugar,8
+Whipped Cream,9
+Menu:
+1,Caffe Americano, $3.3,false
+2,Caffe Latte, $2.55,true
+3,Caffe Mocha, $3.35,true
+4,Cappuccino, $2.9,true
+5,Coffee, $2.75,true
+6,Decaf Coffee, $2.75,true
+2
+Dispensing: Caffe Latte
+Inventory:
+Cocoa,9
+Coffee,7
+Cream,8
+Decaf Coffee,7
+Espresso,0
+Foamed Milk,9
+Steamed Milk,6
+Sugar,8
+Whipped Cream,9
+Menu:
+1,Caffe Americano, $3.3,false
+2,Caffe Latte, $2.55,false
+3,Caffe Mocha, $3.35,false
+4,Cappuccino, $2.9,false
+5,Coffee, $2.75,true
+6,Decaf Coffee, $2.75,true
+3
+Out of stock: Caffe Mocha
+Inventory:
+Cocoa,9
+Coffee,7
+Cream,8
+Decaf Coffee,7
+Espresso,0
+Foamed Milk,9
+Steamed Milk,6
+Sugar,8
+Whipped Cream,9
+Menu:
+1,Caffe Americano, $3.3,false
+2,Caffe Latte, $2.55,false
+3,Caffe Mocha, $3.35,false
+4,Cappuccino, $2.9,false
+5,Coffee, $2.75,true
+6,Decaf Coffee, $2.75,true
+r
+Inventory:
+Cocoa,10
+Coffee,10
+Cream,10
+Decaf Coffee,10
+Espresso,10
+Foamed Milk,10
+Steamed Milk,10
+Sugar,10
+Whipped Cream,10
+Menu:
+1,Caffe Americano, $3.3,true
+2,Caffe Latte, $2.55,true
+3,Caffe Mocha, $3.35,true
+4,Cappuccino, $2.9,true
+5,Coffee, $2.75,true
+6,Decaf Coffee, $2.75,true
+4
+Dispensing: Cappuccino
+Inventory:
+Cocoa,10
+Coffee,10
+Cream,10
+Decaf Coffee,10
+Espresso,8
+Foamed Milk,9
+Steamed Milk,9
+Sugar,10
+Whipped Cream,10
+Menu:
+1,Caffe Americano, $3.3,true
+2,Caffe Latte, $2.55,true
+3,Caffe Mocha, $3.35,true
+4,Cappuccino, $2.9,true
+5,Coffee, $2.75,true
+6,Decaf Coffee, $2.75,true
+2
+Dispensing: Caffe Latte
+Inventory:
+Cocoa,10
+Coffee,10
+Cream,10
+Decaf Coffee,10
+Espresso,6
+Foamed Milk,9
+Steamed Milk,8
+Sugar,10
+Whipped Cream,10
+Menu:
+1,Caffe Americano, $3.3,true
+2,Caffe Latte, $2.55,true
+3,Caffe Mocha, $3.35,true
+4,Cappuccino, $2.9,true
+5,Coffee, $2.75,true
+6,Decaf Coffee, $2.75,true
+3
+Dispensing: Caffe Mocha
+Inventory:
+Cocoa,9
+Coffee,10
+Cream,10
+Decaf Coffee,10
+Espresso,5
+Foamed Milk,9
+Steamed Milk,7
+Sugar,10
+Whipped Cream,9
+Menu:
+1,Caffe Americano, $3.3,true
+2,Caffe Latte, $2.55,true
+3,Caffe Mocha, $3.35,true
+4,Cappuccino, $2.9,true
+5,Coffee, $2.75,true
+6,Decaf Coffee, $2.75,true
+1
+Dispensing: Caffe Americano
+Inventory:
+Cocoa,9
+Coffee,10
+Cream,10
+Decaf Coffee,10
+Espresso,2
+Foamed Milk,9
+Steamed Milk,7
+Sugar,10
+Whipped Cream,9
+Menu:
+1,Caffe Americano, $3.3,false
+2,Caffe Latte, $2.55,true
+3,Caffe Mocha, $3.35,true
+4,Cappuccino, $2.9,true
+5,Coffee, $2.75,true
+6,Decaf Coffee, $2.75,true
+3
+Dispensing: Caffe Mocha
+Inventory:
+Cocoa,8
+Coffee,10
+Cream,10
+Decaf Coffee,10
+Espresso,1
+Foamed Milk,9
+Steamed Milk,6
+Sugar,10
+Whipped Cream,8
+Menu:
+1,Caffe Americano, $3.3,false
+2,Caffe Latte, $2.55,false
+3,Caffe Mocha, $3.35,true
+4,Cappuccino, $2.9,false
+5,Coffee, $2.75,true
+6,Decaf Coffee, $2.75,true
+q
