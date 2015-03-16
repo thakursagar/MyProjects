@@ -1,0 +1,7 @@
+E:\DeveloperTest\DeveloperTest\DeveloperTest\bin\Debug\DeveloperTest.dll
+E:\DeveloperTest\DeveloperTest\DeveloperTest\bin\Debug\DeveloperTest.pdb
+E:\DeveloperTest\DeveloperTest\DeveloperTest\bin\Debug\DeveloperTestTypes.dll
+E:\DeveloperTest\DeveloperTest\DeveloperTest\bin\Debug\DeveloperTestTypes.pdb
+E:\DeveloperTest\DeveloperTest\DeveloperTest\obj\Debug\DeveloperTest.csprojResolveAssemblyReference.cache
+E:\DeveloperTest\DeveloperTest\DeveloperTest\obj\Debug\DeveloperTest.dll
+E:\DeveloperTest\DeveloperTest\DeveloperTest\obj\Debug\DeveloperTest.pdb

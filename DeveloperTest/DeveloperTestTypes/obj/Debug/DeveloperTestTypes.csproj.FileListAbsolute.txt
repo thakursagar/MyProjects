@@ -1,0 +1,4 @@
+E:\DeveloperTest\DeveloperTest\DeveloperTestTypes\bin\Debug\DeveloperTestTypes.dll
+E:\DeveloperTest\DeveloperTest\DeveloperTestTypes\bin\Debug\DeveloperTestTypes.pdb
+E:\DeveloperTest\DeveloperTest\DeveloperTestTypes\obj\Debug\DeveloperTestTypes.dll
+E:\DeveloperTest\DeveloperTest\DeveloperTestTypes\obj\Debug\DeveloperTestTypes.pdb
